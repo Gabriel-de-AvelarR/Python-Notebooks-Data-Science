@@ -1,1 +1,1 @@
-# Python-Notebooks-Data-Science
+Códigos desenvolvidos durante uma disciplina de análise de dados. Todos eles utilizam como base a biblioteca Pandas para coleta das informações em formato de tabela, assim como bibliotecas para tratamento numérico, estatística e amostragem gráfica (Numpy, Matplotlib, Seaborn etc)
